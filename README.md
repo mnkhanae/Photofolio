@@ -7,6 +7,12 @@ Reproduction d'un modèle de site web de photographie avec un très joli design.
 - **Cartes interactives :** Cartes représentant chaque service du photogrphe. Lorsque vous survolez un service, une animation ou un effet visuel se déclenche pour mettre en évidence le service sélectionné.
 - **Conception Responsive :** Le site web est entièrement responsive, s'adaptant de manière élégante à diverses tailles d'écrans, y compris les smartphones, tablettes et ordinateurs de bureau.
 
+# Technologies utilisées
+- HTML
+- CSS
+- Javascript
+- Bootstrap
+
 # Captures d'écran
 ![PhotoFoliofullpage](https://github.com/mnkhanae/Photofolio/assets/126266227/f25a8223-2d31-4585-b867-418ae47759ae)
 ![Aboutphotoliofullpage](https://github.com/mnkhanae/Photofolio/assets/126266227/bdc2eee1-70d8-4784-9e5e-82c6d3aea78b)
